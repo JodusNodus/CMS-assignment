@@ -1,0 +1,13 @@
+STARTING EXPORT: 2018-12-29 01:27:24
+STARTING EXPORT: PHP VERSION 7.2.13
+STARTING EXPORT: OS VERSION Linux appserver-bd3f2d7b.c.pantheon-dmz.internal 4.14.15-201.fc22.x86_64 #1 SMP Thu Jan 25 19:33:22 UTC 2018 x86_64
+STARTING EXPORT: WP VERSION 5.0.2
+STARTING EXPORT: WP URL http://dev-jodusnodus.pantheonsite.io
+STARTING EXPORT: WP SITEURL http://dev-jodusnodus.pantheonsite.io
+STARTING EXPORT: WP HOME http://dev-jodusnodus.pantheonsite.io
+STARTING EXPORT: WP ADDRESS http://dev-jodusnodus.pantheonsite.io
+STARTING EXPORT: PLUGIN VERSION 6.1
+STARTING EXPORT: VIA WP-CLI? 
+STARTING EXPORT: STATIC EXPORT URL http://example.com/
+BAD RESPONSE STATUS (404): /sitemap.xml
+SAVING URL: FILE IS EMPTY /wp-content/themes/portfolio/style.css
